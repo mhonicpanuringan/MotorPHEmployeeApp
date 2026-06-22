@@ -68,16 +68,16 @@ The application was developed incrementally through project milestones and integ
 ## Project Structure
 
 ```text
-src/
-├── MotorPHGUI.java
-├── MotorPH_Payroll.java
-├── SalaryComputationModule.java
-
-nbproject/
-attendance.csv
-employees.csv
-build.xml
-manifest.mf
+MotorPHEmployeeApp/
+├── nbproject/
+├── src/
+│   ├── MotorPHGUI.java
+│   ├── MotorPH_Payroll.java
+│   └── SalaryComputationModule.java
+├── attendance.csv
+├── employees.csv
+├── build.xml
+└── manifest.mf
 ```
 
 ---
