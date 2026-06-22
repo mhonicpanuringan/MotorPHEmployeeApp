@@ -2,7 +2,7 @@
 
 ## Overview
 
-MotorPH Employee App is a Java Swing-based desktop application developed for MO-IT103 Computer Programming 2. The system provides employee record management, payroll computation, and data maintenance functionalities using CSV file integration.
+MotorPH Employee App is a Java Swing-based desktop application developed for MO-IT103 – Computer Programming 2. The system provides employee record management, payroll computation, and data maintenance functionalities using CSV file integration.
 
 The application was developed incrementally through project milestones and integrates GUI development, employee record handling, salary computation, and record maintenance into a single unified system.
 
@@ -111,6 +111,3 @@ The application includes:
 
 Mhonic Panuringan
 
-MO-IT103 – Computer Programming 2
-
-Mapúa Malayan Digital College
