@@ -104,10 +104,3 @@ The application includes:
 5. Manage employee information.
 6. Compute salaries.
 7. Update or delete records as needed.
-
----
-
-## Author
-
-Mhonic Panuringan
-
